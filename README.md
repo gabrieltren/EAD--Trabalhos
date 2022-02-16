@@ -1,5 +1,5 @@
-# Repositório de Desafio de Projeto sobre Git/GitHub
-Repositorio feito para testes.
+# Desafio de Projeto sobre Git/GitHub
+Repositório criado para Desafio de Projeto.
 
 
 ## Links Úteis
