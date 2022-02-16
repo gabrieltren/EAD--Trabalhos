@@ -1,2 +1,6 @@
-# dio-desafio-backend
-Desafio de projeto sobre Git/GitHub
+# Repositório de Desafio de Projeto sobre Git/GitHub
+Repositorio feito para testes.
+
+
+## Links Úteis
+[Sintexa Basica Markdown](https://www.markdownguide.org/basic-syntax/)
